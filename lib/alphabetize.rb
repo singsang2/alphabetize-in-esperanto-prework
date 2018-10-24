@@ -6,9 +6,8 @@ def alphabetize(arr)
   arr_counter = 0
   while arr_counter < arr.length - 1
     alph_counter = 0
-      while  
-    arr[0]
-    arr[1]
+      while alph_counter < [arr[arr_counter].length, arr[arr_counter+1]/length].min
+        ALPHABET.index(arr[arr_counter][alph_counter] <=> arr[arr_counter+1][alph_counter]
     
     
 end
